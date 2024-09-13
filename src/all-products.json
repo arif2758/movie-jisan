@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "brand": "Dell",
+    "price": 1200.99,
+    "quantity": 10,
+    "category": "Electronics",
+    "thumbnailImage": "https://unsplash.com/photos/XkKCui44iM0",
+    "description": "A high-performance Dell laptop with the latest technology, ideal for professionals and students."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "brand": "Apple",
+    "price": 999.99,
+    "quantity": 15,
+    "category": "Electronics",
+    "thumbnailImage": "https://unsplash.com/photos/HdYhmuZP3hQ",
+    "description": "The latest Apple iPhone with cutting-edge features and an elegant design."
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "brand": "Sony",
+    "price": 199.99,
+    "quantity": 30,
+    "category": "Accessories",
+    "thumbnailImage": "https://unsplash.com/photos/qNNCYhJ_Sy0",
+    "description": "Noise-cancelling wireless headphones by Sony, perfect for immersive sound experiences."
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "brand": "Samsung",
+    "price": 299.99,
+    "quantity": 20,
+    "category": "Wearables",
+    "thumbnailImage": "https://unsplash.com/photos/_30tLOtQ-qM",
+    "description": "Samsung Galaxy Smartwatch with fitness tracking and health monitoring features."
+  },
+  {
+    "id": 5,
+    "name": "Camera",
+    "brand": "Canon",
+    "price": 850.5,
+    "quantity": 8,
+    "category": "Photography",
+    "thumbnailImage": "https://unsplash.com/photos/hTv8aaPziOQ",
+    "description": "Capture stunning photos and videos with this high-definition Canon DSLR camera."
+  },
+  {
+    "id": 6,
+    "name": "Gaming Console",
+    "brand": "Sony",
+    "price": 499.99,
+    "quantity": 25,
+    "category": "Gaming",
+    "thumbnailImage": "https://unsplash.com/photos/4OHkK555s1A",
+    "description": "Next-gen gaming console by Sony with incredible graphics and immersive gameplay."
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "brand": "JBL",
+    "price": 79.99,
+    "quantity": 50,
+    "category": "Audio",
+    "thumbnailImage": "https://unsplash.com/photos/SCu1VXcJFpU",
+    "description": "Portable Bluetooth speaker with powerful sound and deep bass by JBL."
+  },
+  {
+    "id": 8,
+    "name": "Tablet",
+    "brand": "Microsoft",
+    "price": 649.99,
+    "quantity": 12,
+    "category": "Electronics",
+    "thumbnailImage": "https://unsplash.com/photos/XrIHvKJO6pM",
+    "description": "Microsoft Surface tablet with a sleek design, perfect for both work and play."
+  },
+  {
+    "id": 9,
+    "name": "Smart TV",
+    "brand": "LG",
+    "price": 1299.99,
+    "quantity": 5,
+    "category": "Electronics",
+    "thumbnailImage": "https://unsplash.com/photos/xx7OqXQbVYQ",
+    "description": "LG Smart TV with 4K resolution and access to popular streaming services."
+  },
+  {
+    "id": 10,
+    "name": "Wireless Mouse",
+    "brand": "Logitech",
+    "price": 49.99,
+    "quantity": 60,
+    "category": "Accessories",
+    "thumbnailImage": "https://unsplash.com/photos/Ug7zx6BvOGY",
+    "description": "Ergonomic wireless mouse by Logitech with precision tracking and long battery life."
+  }
+]
